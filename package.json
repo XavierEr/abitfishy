@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/XavierEr/abitfishy/issues"
   },
-  "homepage": "https://github.com/XavierEr/abitfishy#readme"
+  "homepage": "https://github.com/XavierEr/abitfishy#readme",
+  "devDependencies": {
+    "webpack": "^4.2.0"
+  }
 }
